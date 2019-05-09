@@ -1,0 +1,10 @@
+git config user.name "nome"
+git config user.email "email"
+
+enviar arquivos:
+git add *
+git commit -m "mensagem"
+git push
+
+resolução de conflito:
+
