@@ -1,0 +1,131 @@
+{
+    "Filme":
+    {
+    "titulo":"February",
+    "dar_lancamento":"7/9/2018",
+    "genero":"Terror",
+    }
+  }
+  
+  {
+    "Ator":
+    {
+    "nome":"Kiernan Shipka",
+    "idade":20,
+    "cache":"$60000",
+    "filme" : {
+       "nome:":"February"
+       "dat_lancamento":"7/9/2018"
+       "genero":"Terror"
+      },
+    }
+  }
+  {
+    "Elenco":
+     {
+      "filme" : {
+       "nome:":"February"
+       "dat_lancamento":"7/9/2018"
+       "genero":"Terror"
+       },
+      "ator" : {
+       "nome":"Kiernan Shipka",
+       "idade":20,
+       "cache":"$60000",
+      },
+     }
+  }
+  {
+    "Diretor":
+    {
+    "nome":"Julian Grey",
+    "idade":46,
+    "filme" : {
+      "nome:":"February"
+      "dat_lancamento":"7/9/2018"
+      "genero":"Terror"
+      },
+    }
+  }
+  
+  {
+    "Estudio":
+    {
+    "local":"Los Angeles"
+    "qnt_salas":13
+    "tempo_uso":"4 meses"
+    }
+  }
+   
+  {
+    "Funcionario":
+    {
+    "nome":"Jairo da Silva",
+    "cpf":"12332112342",
+    "estudio": {
+      "local":"Los Angeles"
+      "qnt_salas":13
+      "tempo_uso":"4 meses"
+    }
+    }
+  }
+  
+  {
+    "FilmesLançados":
+    {
+      "filmes_prontos": [
+        {
+          "nome":"Deixe a neve cair" 
+        },
+        {
+          "nome":"Silence"
+        }
+      ]      
+      "estudio": {
+        "local":"Los Angeles"
+        "qnt_salas":13
+        "tempo_uso":"4 meses"
+    }
+  }
+  
+  {
+    "CompraDeFilme":[
+      {
+      "filme" : {
+        "nome:":"February"
+        "dat_lancamento":7/9/2018
+        "genero":"Terror"
+        },
+      "valor":"$1000000000",
+      }
+    ] 
+  }
+  
+  {
+    "EquipeDublagem":[
+    {
+    "nome_dublador":"Luiza Porto",
+    "cache":"$5000",
+    "papel":"Angie",
+    "filme" : {
+      "nome:":"February"
+      "dat_lancamento":7/9/2018
+      "genero":"Terror"
+      },
+    }
+    ] 
+  }
+  
+  {
+    "Comprador":[
+    {
+    "filme" : {
+      "nome:":"February",
+      "dat_lancamento":"7/9/2018",
+      "genero":"Terror",
+      },
+    "empresa":"Sony",
+    "valor":"$500000000",
+    }
+    ] 
+  }
